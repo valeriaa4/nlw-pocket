@@ -8,10 +8,10 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 ## Passos de  uma linguagem
 
 - [x] Comentários;
-- Declaração de variáveis (const, let);
-- Operadores (atribuição, matemáticos, lógicos);
-- Tipos de dados (string, number, boolean);
-- Estrutura de dados (functions, objects, array);
+- [x] Declaração de variáveis (const, let);
+- [x] Operadores (atribuição, matemáticos, lógicos);
+- [x] Tipos de dados (string, number, boolean);
+- [x] Estrutura de dados (functions, objects, array);
 - Controle de fluxo (if/else);
 - Estrutura de repetição (for, while).
 
@@ -23,8 +23,9 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Tipos de dados
 
-Strings (textos) "" '' ``
-Number (números) 2, 1.5, -10
+- Strings (textos) "" '' ``
+- Number (números) 2, 1.5, -10
+- Boolean (true or false)
 
 ## Escopo e Variáveis
 
@@ -42,6 +43,9 @@ local: dentro das chaves
 Atribuição:
 = "recebe" valores
 
+Concatenação: 
++ junção de strings e variáveis
+
 Matemáticos:
     == igual
     != diferente de
@@ -55,3 +59,35 @@ Lógicos:
     && and
     || or
     ! not
+
+## Estruturas de Dados
+
+ ## Arrays ( [] )
+ Conjunto de elementos, lista com qualquer tipo de dados
+ Exemplo:
+ 
+ let elementos = [livro, mesa, cadeira, bolsa]
+  // inicia no elemento 0
+
+ ## Objetos ( {} )
+ Elemento em que atribuímos propriedades a ele
+ Atributos e métodos
+ Criação e manipulação de objetos
+ Acesso a propriedades de objetos
+ Exemplo:
+
+ let meta = {
+    value: ler 1 livro por semana,
+    checked: false,
+}
+    meta.value
+    //acessa a propriedade value
+
+ ## Functions ( {} )
+ Criação de funções
+ Arrow function ( const criarmeta = () => {} )
+ Exemplo:
+
+ function() {
+
+ }
