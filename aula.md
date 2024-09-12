@@ -91,3 +91,10 @@ Lógicos:
  function() {
 
  }
+
+ ## Estrutura de repetição
+
+  ## While
+  while(condição){
+    código a ser executado
+  }
