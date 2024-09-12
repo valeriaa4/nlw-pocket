@@ -98,3 +98,14 @@ Lógicos:
   while(condição){
     código a ser executado
   }
+
+  ## Condicionais
+  switch (opcao) {
+    case 1:
+    código
+    break // quebra
+    case 2:
+    código
+    break
+    default: // caso não for nenhum dos casos executa o default
+  }
