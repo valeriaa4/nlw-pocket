@@ -110,6 +110,12 @@ Lógicos:
     default: // caso não for nenhum dos casos executa o default
   }
 
+  if(){
+    código a executar - se for verdadeiro
+  } else{
+    código a executar - se for falso
+  }
+
 ## npm (node package manager)
 npm install nomedopacote
 
