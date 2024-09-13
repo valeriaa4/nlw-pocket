@@ -109,3 +109,9 @@ Lógicos:
     break
     default: // caso não for nenhum dos casos executa o default
   }
+
+## npm (node package manager)
+npm install nomedopacote
+a que usamos: npm install inquirer
+
+basicamente, é um app com ferramentas/aplicações que já foram construídas e que podemos utilizar no nosso programa.
