@@ -112,6 +112,15 @@ Lógicos:
 
 ## npm (node package manager)
 npm install nomedopacote
-a que usamos: npm install inquirer
 
-basicamente, é um app com ferramentas/aplicações que já foram construídas e que podemos utilizar no nosso programa.
+basicamente, é um 'app' com ferramentas/aplicações que já foram construídas e que podemos utilizar no nosso programa.
+
+## Módulos em Node.js
+
+Importação de módulos (require, CommonJS)
+Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação Assíncrona e Promises
+
+Uso de funções assíncronas (async/await): ao invés de retornar imediatamente o valor final, são aquelas que retornam uma promessa.
+Promise: é um objeto que representa a eventual conclusão (ou falha) de uma operação assíncrona e seu valor resultante.
