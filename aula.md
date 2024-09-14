@@ -60,6 +60,9 @@ Lógicos:
     || or
     ! not
 
+Spread operator:
+    ... 
+
 ## Estruturas de Dados
 
  ## Arrays ( [] )
@@ -68,6 +71,8 @@ Lógicos:
  
  let elementos = [livro, mesa, cadeira, bolsa]
   // inicia no elemento 0
+
+  Métodos do array: forEach, push, find... (Higher Order Functions - HOF)
 
  ## Objetos ( {} )
  Elemento em que atribuímos propriedades a ele
