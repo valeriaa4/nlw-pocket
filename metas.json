@@ -6,5 +6,9 @@
   {
     "value": "estudar",
     "checked": false
+  },
+  {
+    "value": "3l água",
+    "checked": true
   }
 ]
