@@ -130,6 +130,12 @@ basicamente, é um 'app' com ferramentas/aplicações que já foram construídas
 
 Importação de módulos (require, CommonJS)
 Biblioteca 'inquirer' para criar prompts interativos
+FS (file system)
+
+## JSON
+Javascripr Object Notation (.json)
+- JSON parse(): transforma de JSON para JS
+- JSON.stringify(): transforma de JS para JSON
 
 ## Programação Assíncrona e Promises
 

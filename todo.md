@@ -7,7 +7,4 @@
 - [x] Marcar/desmarcar metas como concluídas
 - [x] Remover metas
 - [x] Sistema de mensagens
-
-// git
-
-git init => iniciar repositório local
+- [x] Persistir dados (carregar e salvar metas)
