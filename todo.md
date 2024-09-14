@@ -6,7 +6,7 @@
     - [x] Metas abertas
 - [x] Marcar/desmarcar metas como concluídas
 - [x] Remover metas
-- Sistema de mensagens
+- [x] Sistema de mensagens
 
 // git
 

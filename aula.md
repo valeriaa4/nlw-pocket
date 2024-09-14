@@ -72,7 +72,7 @@ Spread operator:
  let elementos = [livro, mesa, cadeira, bolsa]
   // inicia no elemento 0
 
-  Métodos do array: forEach, push, find... (Higher Order Functions - HOF)
+  Métodos do array: forEach, push, find, map ... (Higher Order Functions - HOF)
 
  ## Objetos ( {} )
  Elemento em que atribuímos propriedades a ele
